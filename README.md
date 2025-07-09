@@ -2,4 +2,6 @@
 
 ### Update Readme
 
-## Angular Project Creation
+## Angular Project Creation 
+
+##  criação dos componentes Angular, e criação do Header.
