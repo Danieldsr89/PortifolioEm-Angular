@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FirstPageComponent } from './first-page/first-page.component'; 
+import { FirstPageComponent } from './compenents/first-page/first-page.component'; 
 
 @Component({
   selector: 'app-home',

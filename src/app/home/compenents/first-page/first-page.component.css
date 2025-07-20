@@ -1,0 +1,47 @@
+.container{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240522/pngtree-abstract-modern-tech-of-programming-code-screen-developer-image_15685510.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;    
+    display: flex;  
+    flex-direction: column;
+}
+.colorBar{
+    width: 100vw;
+    height: 50px;
+    background-color: #10e957;    
+}
+.colorBar >img{
+    margin-left: 140px;
+    margin-top: 5px;
+}
+.icon_colorBar{
+    z-index:100px;
+}
+.container__header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;       
+    flex-direction: column;
+}
+.text__header > p{
+    color: #bfbfba;
+    font-size: 20px;
+    background-color: rgba(20,233,88,.157);
+    border-radius: 12px;
+    height: 40px;
+    width: 270px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 20px;
+    
+}
+.title__header >h1{
+    color:azure;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;    
+}
